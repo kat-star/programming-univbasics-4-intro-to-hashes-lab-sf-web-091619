@@ -11,11 +11,11 @@ def pioneer
 end
 
 def id_generator
-  id_gen = {:id => 5 assigned to positive integer
+  id_gen = {:id => 5}
 end
 
 def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+  new_hash 
 end
 
 def read_from_hash(hash, key)
